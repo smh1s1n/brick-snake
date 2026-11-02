@@ -21261,7 +21261,7 @@ $iCW:1}
 A.a9K.prototype={
 $1(a){var s=A.c8().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/deb287481e3ce9468f3434937ced4240a70539ca/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/89c39edfdfae2949f6806e4a315c0c08522238b7/":s)+a},
 $S:82}
 A.FF.prototype={
 gjz(){var s=this.b
